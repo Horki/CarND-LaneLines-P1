@@ -3,6 +3,9 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+## Interactive example
+I have created interactive WASM example for Lane Lines project [here](https://github.com/Horki/lanelines_wasm_emscripten).
+
 Overview
 ---
 
