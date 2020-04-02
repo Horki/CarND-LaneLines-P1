@@ -74,10 +74,10 @@ Polygon shape has been a bit modified so front part of car is not inside a polyg
 ### Result (Video)
 
 #### Challenge [video](https://github.com/Horki/CarND-LaneLines-P1/blob/master/test_videos_output/challenge.mp4), [YouTube Video](https://youtu.be/DK-ZuadfIY0) (sample)
-<img src="samples/challenge.gif"/>
+<img src="samples/challenge.webp"/>
 
 #### Solid White Right [video](https://github.com/Horki/CarND-LaneLines-P1/blob/master/test_videos_output/solidWhiteRight.mp4) (sample)
-<img src="samples/solidWhiteRight.gif"/>
+<img src="samples/solidWhiteRight.webp"/>
 
 #### Solid Yellow Left [video](https://github.com/Horki/CarND-LaneLines-P1/blob/master/test_videos_output/solidYellowLeft.mp4) (sample)
-<img src="samples/solidYellowLeft.gif"/>
+<img src="samples/solidYellowLeft.webp"/>
